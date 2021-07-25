@@ -7,6 +7,14 @@ h1{
     display: flex;
     justify-content: space-evenly;
 }
+    
+    .aboutUs{
+        margin: 50px;
+    }
+    .aboutUs a{
+        margin: 20px;
+    }
+
 
 a:link{
     color: #ff0101;
